@@ -8,7 +8,7 @@ URL for NCBI disease Task: https://www.ncbi.nlm.nih.gov/CBBresearch/Dogan/DISEAS
 
 The original data and official evaluation toolkit could be found here.
 
-=============================environmental requirements====================================
+=====================environmental requirements============================
 
 python >=3.6
 
@@ -24,7 +24,7 @@ pytorch_pretrained_bert >= 0.6.2
 
 biobertv1.1: https://github.com/dmis-lab/biobert
 
-=============================Introduction of the code=====================================
+=====================Introduction of the code==========================
 
 preprocessd_data.py:convert the original data with the form of pubtator into the commom form (e.g. Tricuspid B-Disease)
 
