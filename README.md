@@ -53,3 +53,7 @@ calculate_semantic_relevance_score.py: calculate semantic relevance score to dec
 run_partial_label_integrating_transfer.py: fine-tune partial label integrating on the training dataset
 
 run_partial_label_masking_transfer.py: fine-tune partial label masking on the training dataset
+
+=====================weakly dataset==========================
+
+Due to upload memory limitations, please contact the author for corpus.
