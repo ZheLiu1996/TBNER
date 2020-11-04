@@ -44,16 +44,6 @@ get_label.py: use noisy correction module to correct weakly labeled dataset
 
 run_partial_label_integrating.py: run partial label integrating (BioBERT)
 
-run_partial_label_masking.py: run partial label masking (BioBERT)
-
-get_cls.py: acquire the [cls] embeddings of all abstracts
-
-calculate_semantic_relevance_score.py: calculate semantic relevance score to decide whether to transfer
-
-run_partial_label_integrating_transfer.py: fine-tune partial label integrating on the training dataset
-
-run_partial_label_masking_transfer.py: fine-tune partial label masking on the training dataset
-
 =====================weakly dataset==========================
 
 Due to upload memory limitations, please contact the author for corpus.
